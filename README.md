@@ -9,7 +9,7 @@
 </br>
 
 ### Sobre mim
-Me chamo Wellington ou "well dev", sou desenvolvedor front-end e designer, desde 2021 ajudando a levar inovação e praticidade para meus clientes,
+Me chamo Wellington ou "well dev", sou desenvolvedor front-end, desde 2021 ajudando a levar inovação e praticidade para meus clientes,
 atualmente trabalho como software engineer na Agility Gestão de Frotas, estou em constante aprendizado no intuito de me tornar um profissional cada vez melhor.
 Também sou amante de café e código.  ☕️
 
