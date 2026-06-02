@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Welldevbr">
-    <img src="https://img.shields.io/badge/Github-151B23?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Github-010409?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
