@@ -1,62 +1,104 @@
- 
-# Hi, I'm Well Dev! :D
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-santana-b616991b8/)](https://www.linkedin.com/in/wellington-santana-b616991b8/)&nbsp;
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-f64363?style=flat-square&labelColor=f64363&logo=instagram&logoColor=white&link=https://instagram.com/well_dev_)](https://instagram.com/well_dev_)&nbsp;
-[![Behance Badge](https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/welldev)&nbsp;
+# 👋 Olá, eu sou Wellington Santana (Well Dev)
 
 
-</br>
+<p align="left">
+  <a href="https://www.linkedin.com/in/wellington-santana-b616991b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Welldevbr">
+    <img src="https://img.shields.io/badge/Github-151B23?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 
-### Sobre mim
-Me chamo Wellington ou "well dev", sou desenvolvedor front-end, desde 2021 ajudando a levar inovação e praticidade para meus clientes,
-atualmente trabalho como software engineer na Agility Gestão de Frotas, estou em constante aprendizado no intuito de me tornar um profissional cada vez melhor.
-Também sou amante de café e código.  ☕️
+## 🚀 Sobre mim
 
-Vejá um pouco do meu [trabalho](https://well.dev/)  💻.
+Sou Desenvolvedor Front-end com mais de 4 anos de experiência criando aplicações web modernas, escaláveis e focadas na melhor experiência do usuário.
 
-##
+Minha principal atuação está no ecossistema JavaScript, utilizando tecnologias como React.js, Next.js e TypeScript para desenvolver interfaces performáticas, acessíveis e de fácil manutenção.
 
+Também atuei com projetos e-commerce de grande porte utilizando Salesforce Commerce Cloud (SFCC), participando desde a implementação de novas funcionalidades até otimizações de performance e experiência do usuário.
 
-### 🔥  - Principais Habilidades:
+Além da programação, sou apaixonado por tecnologia, café e aprendizado contínuo.
 
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/typescript-0D1117?style=for-the-badge&logo=typescript)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Next JS](https://img.shields.io/badge/Next-0D1117?style=for-the-badge&logo=next.js&logoColor=white)
+🌐 **Portfólio**: [well-dev-profile.vercel.app](https://well-dev-profile.vercel.app/)
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-0D1117?style=for-the-badge&logo=bootstrap)&nbsp;
-![SASS](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=CC6699&textColor=CC6699)&nbsp;
-![Styled Components](https://img.shields.io/badge/styled--components-0D1117?style=for-the-badge&logo=styled-components&logoColor=DB7093)&nbsp;
-![Tailwind](https://img.shields.io/badge/tailwindcss-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=4EB3AC)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?style=for-the-badge&logo=graphql&logoColor=E10098)&nbsp;
+---
 
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![SQLite](https://img.shields.io/badge/sqlite-0D1117?style=for-the-badge&logo=sqlite&logoColor=07405E)&nbsp;
-![My SQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=005C84)&nbsp;
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=Firebase&logoColor=F69903)&nbsp;
+## 🛠️ Principais Tecnologias
 
-<br />
+### Front-end
 
-### 🎯  - Ferramentas:
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge\&logo=css3)
 
-![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=563D7C&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Adobe Photoshop](https://img.shields.io/badge/photoshop-0D1117?style=for-the-badge&logo=adobe%20photoshop&logoColor=31A8FF)&nbsp;
-![Adobe Illustrator](https://img.shields.io/badge/illustrator-0D1117?style=for-the-badge&logo=adobe%20illustrator&logoColor=FF9A00)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge\&logo=typescript)
 
-![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6&textColor=white)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge\&logo=next.js)
+![Vite](https://img.shields.io/badge/Vite-0D1117?style=for-the-badge\&logo=vite)
 
-<br />
-  
-### 👨‍💻  - Estudando no momento: 
+### Gerenciamento de Estado e Dados
 
-![React Native](https://img.shields.io/badge/react_native-0D1117?style=for-the-badge&logo=react&)&nbsp;
-![Angular.js](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B&labelColor=0D1117)&nbsp;
+![Zustand](https://img.shields.io/badge/Zustand-0D1117?style=for-the-badge)
+![React Query](https://img.shields.io/badge/TanStack_Query-0D1117?style=for-the-badge\&logo=reactquery)
+![GraphQL](https://img.shields.io/badge/GraphQL-0D1117?style=for-the-badge\&logo=graphql)
 
+### Estilização
+
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge\&logo=tailwindcss)
+![Sass](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge\&logo=sass)
+![Styled Components](https://img.shields.io/badge/Styled_Components-0D1117?style=for-the-badge\&logo=styled-components)
+
+### Back-end e Integrações
+
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge\&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge\&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge\&logo=nestjs)
+![REST API](https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-0D1117?style=for-the-badge\&logo=graphql)
+
+### Banco de Dados e ORM
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge\&logo=postgresql)
+![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge\&logo=prisma)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge\&logo=sqlite)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge\&logo=firebase)
+
+### E-commerce
+
+![Salesforce Commerce Cloud](https://img.shields.io/badge/SFCC-0D1117?style=for-the-badge)
+![E--commerce](https://img.shields.io/badge/E--commerce-0D1117?style=for-the-badge)
+
+---
+
+## ⚙️ Ferramentas
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge\&logo=visualstudiocode)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge\&logo=figma)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge\&logo=linux)
+
+---
+
+## 📚 Atualmente Estudando
+
+* Arquitetura de Software
+* Design Patterns
+* Testes Automatizados com Vitest e React Testing Library
+* Performance e Web Vitals
+* Salesforce Commerce Cloud (Avançado)
+
+---
+
+## 🎯 Objetivos
+
+* Evoluir para posições de maior responsabilidade técnica
+* Aprofundar conhecimentos em arquitetura front-end
+* Desenvolver produtos escaláveis e de alta qualidade
+* Contribuir para experiências digitais que gerem valor real para usuários e negócios
+
+---
+
+⭐ Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada na tecnologia.
